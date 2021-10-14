@@ -1,0 +1,16 @@
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.csproj.AssemblyReference.cache
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.AssemblyInfoInputs.cache
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.AssemblyInfo.cs
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.csproj.CoreCompileInputs.cache
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\bin\Debug\net5.0\CSharpDemo.exe
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\bin\Debug\net5.0\CSharpDemo.deps.json
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\bin\Debug\net5.0\CSharpDemo.runtimeconfig.json
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\bin\Debug\net5.0\CSharpDemo.runtimeconfig.dev.json
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\bin\Debug\net5.0\CSharpDemo.dll
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\bin\Debug\net5.0\ref\CSharpDemo.dll
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\bin\Debug\net5.0\CSharpDemo.pdb
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.dll
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\ref\CSharpDemo.dll
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.pdb
+E:\JT\CSharpDemo\CSharpDemo\CSharpDemo\obj\Debug\net5.0\CSharpDemo.genruntimeconfig.cache
